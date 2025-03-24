@@ -1,0 +1,10 @@
+name = "linear-regression"
+version = "0.1.0"
+defaultTargets = ["linear-regression"]
+
+[[lean_lib]]
+name = "LinearRegression"
+
+[[lean_exe]]
+name = "linear-regression"
+root = "Main"
